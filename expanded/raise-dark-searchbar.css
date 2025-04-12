@@ -403,7 +403,7 @@ img, img:before {
   color: #74ff5c; }
 
 #wrapper {
-  max-width: 1024px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 12px; }
 
@@ -2464,3 +2464,7 @@ body#staff .thin > div:nth-of-type(2) {
     background: linear-gradient(to right, #252525, #292929, #2C2C2C, #303030, #333333, #373737, #3B3B3B, #3E3E3E, #424242, #454545, #494949); }
   .alert-bar br {
     display: none; }
+
+.user-info-bar__text--hnr {
+  color: #ff2600;
+}
